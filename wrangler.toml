@@ -1,0 +1,8 @@
+name = "softwareinstall"
+compatibility_date = "2025-08-11"
+
+[pages]
+compatibility_date = "2025-08-11"
+
+[site]
+bucket = "dist"
